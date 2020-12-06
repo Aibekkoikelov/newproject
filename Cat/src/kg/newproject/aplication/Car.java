@@ -9,6 +9,7 @@ public class Car extends NewProject{
         int adge;
 
         float ag2e;
+        float agdsd2e;
 
     }
 

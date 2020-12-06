@@ -5,6 +5,7 @@ public class Car extends NewProject{
     @Override
     public void print() {
         int age;
+        int adge;
     }
 
     @Override
